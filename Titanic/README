@@ -1,3 +1,14 @@
 README
 
+Apr 2:
+From Kaggle: 
+'Your Best Entry 
+You advanced 132 places on the leaderboard!
+Your submission scored 0.72248, which is an improvement of your previous score of 0.69856. Great job!'
+Tasks I've done this time:
+- Split the train set into train and dev set into a ratio of 7:3.
+- Remained using KNN as algorithm, [PClass, Age, Sex] as predictors
+- Normalized Age variable for both train/dev/test set
+
 About one month ago from today (22nd March, 2018) I sent the first titanic result to Kaggle. The score was 0.69856. There is room of improvement to the data science technique used in the project. Therefore, I started a Problem section inside titanic.ipynb and jotted down tasks I'm missing.
+
